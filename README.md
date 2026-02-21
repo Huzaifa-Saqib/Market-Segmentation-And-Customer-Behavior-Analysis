@@ -1,4 +1,4 @@
-# Customer Behaviour And Segmentation Project
+# Market Segmentation & Customer Behavior Analysis
 
 ## Overview
 This project involves analyzing customer data to segment them based on **purchase amount, purchase frequency, and satisfaction**. Customers were grouped into **low-value, medium-value, and high-value segments**. Insights were visualized and actionable recommendations were provided to improve marketing strategies, customer engagement, and overall business performance.
