@@ -38,9 +38,9 @@ This project involves analyzing customer data to segment them based on **purchas
 ---
 
 ## Recommendations
-- Upsell: Targeted Low-Value users with discounts to increase spend.
-- Loyalty: Rewarded High-Value users to maximize retention.
-- Recovery: Automated win-back offers for unsatisfied users to reduce churn.
+- Upsell: Target Low-Value users with discounts to increase spend.
+- Loyalty: Reward High-Value users to maximize retention.
+- Recovery: Automat win-back offers for unsatisfied users to reduce churn.
 - Migration: Used frequency triggers to move Medium-Value users to High-Value.
 
 ---
