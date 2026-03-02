@@ -29,19 +29,19 @@ This project involves analyzing customer data to segment them based on **purchas
 ---
 
 ## Key Findings
+- Low-value customers cover 35% of total customer, indicating opportunities to grow
 - High-value customers had higher average purchase amount ($85.9) and frequent purchases  
 - Low-value customers spend on average ($33.8), showing opportunities for engagement and improvement
 - Avergae of purchase amount was ($60)
 - Average Review Ratings were (3.75 stars), indicating many customers are not satisfied 
-- Dashboards highlight trends in purchasing behavior and satisfaction  
 
 ---
 
 ## Recommendations
-- Target **high-value customers** with loyalty programs  
-- Engage **low- and medium-value customers** with personalized offers  
-- Monitor satisfaction ratings to improve customer experience  
-- Use dashboards for continuous tracking and data-driven decision-making  
+- Upsell: Targeted Low-Value users with discounts to increase spend.
+- Loyalty: Rewarded High-Value users to maximize retention.
+- Recovery: Automated win-back offers for unsatisfied users to reduce churn.
+- Migration: Used frequency triggers to move Medium-Value users to High-Value.
 
 ---
 
